@@ -7,7 +7,8 @@ The GUI features a dedicated workspace that provides users with pertinent inform
 
 
 
-
+Screenshot of SECURE 256
+![Screenshot (12)](https://github.com/singhshubham4422/Encryption-Decryption/assets/114353023/408034c2-ab0e-40f6-b172-e31b4063d3d8)
 
 
 ![image](https://github.com/singhshubham4422/Encryption-Decryption/assets/114353023/c8fc8d03-5975-4625-a99a-80a5c1a743d0)
